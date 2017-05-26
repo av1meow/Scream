@@ -1,0 +1,38 @@
+body {
+  background-color:#00004d
+}
+
+.nav, .nav-pills, .nav-stacked {
+background-color: #000
+color: #ffffff
+}
+
+.jumbotron {
+background-color: #000;
+}
+
+.jumbotron>.h1 {
+    color: #b30000;
+    background-color: #000;
+}
+
+.jumbotron>.h2 {
+  background-color: #00004d;
+  color: #ffff00;
+}
+
+.btn:hover, .btn-primary, .btn-lg {
+
+}
+
+.btn-group {
+
+}
+
+.dropdown-menu {
+
+}
+
+.divider {
+
+}
