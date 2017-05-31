@@ -6,6 +6,12 @@ nav-pills>li.active>a:hover {
     background-color: #000;
 }
 
+a {
+    color: #990000;
+    text-decoration: none;
+    background-color: #00004d;
+}
+
 .jumbotron {
 background-color: #000;
 }
@@ -20,18 +26,32 @@ background-color: #000;
   color: #ffff00;
 }
 
-.btn:hover, .btn-primary, .btn-lg {
-
+.btn-primary:hover {
+    color: #ff00ff;
+    background-color: #000;
+    border-color: #ffff4d;
 }
 
-.btn-group {
-
+.btn-primary {
+    color: #990099;
+    background-color: #595959;
+    border-color: #ffff4d;
 }
 
-.dropdown-menu {
-
+.well {
+  color: #b3cccc;
+  background-color: #00004d;
+  border: 1px solid #006600;
 }
 
-.divider {
+.btn-danger:hover {
+    color: #009933;
+    background-color: #c9302c;
+    border-color: #ffff4d;
+}
 
+.btn-danger {
+    color: #009933;
+    background-color: #ffff4d;
+    border-color: #d9534f;
 }
