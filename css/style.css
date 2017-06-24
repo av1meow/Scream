@@ -106,6 +106,11 @@ span.highlight2 {
   color: #808080;
   font-family: 'Love Ya Like A Sister', cursive;
 }
+#wu {
+  color: #cc00ff;
+  text-decoration: underline;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
 
 /* Style the Image Used to Trigger the Modal */
 #myImg {
@@ -192,4 +197,10 @@ span.highlight2 {
     .modal-content {
         width: 100%;
     }
+}
+
+/*jumbotron Werewolf*/
+.jumbotron h1 {
+  color: #fff;
+  font-family: 'Love Ya Like A Sister', cursive;
 }
