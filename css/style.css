@@ -131,7 +131,6 @@ span.highlight2 {
     cursor: pointer;
     transition: 0.3s;
 }
-
 #myImg:hover {opacity: 0.7;}
 
 .wood{
@@ -167,6 +166,10 @@ span.highlight2 {
 }
 /*P tag in scrollbox*/
 .gore {
+  font-family: 'Love Ya Like A Sister';
+  color: darkcyan;
+}
+#PT {
   font-family: 'Barrio';
   color: darkcyan;
 }
